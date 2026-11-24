@@ -1,0 +1,17 @@
+{
+  "name": "SONIC GUARD \u2014 Acoustic Safety Intelligence",
+  "short_name": "SONIC GUARD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "scope": "./",
+  "description": "Interactive 3D acoustic safety monitoring concept."
+}
